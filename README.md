@@ -1,4 +1,4 @@
-			# Ariadne project
+# *Ariadne project*
 # Framework for calibrating discounting and forward rates' term structure to market
 
 As an immediate impact of the 2007-2009 subprime-mortgage-initiated financial crisis, interest rates linked with distinct credit instruments,
