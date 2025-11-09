@@ -8,3 +8,6 @@ paradigm, the previously used approach to calculating and discounting future cas
 Instead, the new, market-driven approach implied modelling of different term structure curves for different instruments, exposed to different
 levels of credit risk. This repository contains the framework to modelling the multicurve based on the pre-defined set of market credit
 instruments with available public market quotes.
+
+
+
